@@ -8,7 +8,7 @@ function setup() {
 
 car.velocityX = 5;
 
-speed = random(25,31);
+speed = random(25,71);
 weight = random(400,1500);
 
 }
